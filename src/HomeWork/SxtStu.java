@@ -26,6 +26,6 @@ public class SxtStu {
         s2.sname = "张三";
         s2.study();
         System.out.println(s1);
-        System.out.println(s2);
+
     }
 }
