@@ -26,5 +26,6 @@ public class SxtStu {
         s2.sname = "张三";
         s2.study();
 
+
     }
 }
